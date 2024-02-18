@@ -1,1 +1,1 @@
-"Fronted devolpment using Html and css"
+"Fronted development using Html and css"
